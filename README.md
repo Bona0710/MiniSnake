@@ -1,0 +1,2 @@
+# MiniSnake
+atividade de programação
